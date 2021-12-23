@@ -1,0 +1,44 @@
+--HOTEL
+insert into hotel values (1, '웨스틴조선호텔', '서울', 5, '02-771-0500');
+insert into hotel values (2, '밀레니엄 힐튼 서울', '서울', 5, '02-753-7788');
+insert into hotel values (3, '시그니엘 서울', '서울', 5, '02-3213-1000');
+insert into hotel values (4, '라마다 송도 호텔', '인천', 3, '032-832-2000');
+insert into hotel values (5, '더위크앤 리조트', '인천', 4, '032-745-0000');
+insert into hotel values (6, '강릉 씨티 호텔', '강릉', 3, '033-655-8700');
+insert into hotel values (7, '씨크루즈호텔속초', '속초', 4, '1644-8810');
+insert into hotel values (8, '낙산비치 호텔', '양양', 4, '033-673-0601');
+insert into hotel values (9, '라한셀렉트 경주', '경주', 5, '054-748-2233');
+insert into hotel values (10, '라한호텔 포항', '포항', 3, '054-230-7000');
+insert into hotel values (11, '안동 씨엠파크 호텔', '안동', 3, '054-853-7800');
+insert into hotel values (12, '소노캄 거제', '거제', 5, '1588-4888');
+insert into hotel values (13, '크라운호텔 창원', '창원', 3, '055-237-1001');
+insert into hotel values (14, '아이스퀘어호텔', '김해', 4, '055-344-5000');
+insert into hotel values (15, '파라다이스 호텔 부산', '부산', 5, '051-742-2121');
+insert into hotel values (16, '토요코인 서면', '부산', 2, '051-638-1045');
+insert into hotel values (17, '오엔시티호텔', '천안', 4, '041-553-8080');
+
+--ROOM
+insert into room values (1, '디럭스 킹', 2, 101, '1');
+insert into room values (2, '디럭스 트윈', 2, 102, '1');
+insert into room values (3, '스위트', 4, 101, '2');
+insert into room values (4, '디럭스룸', 4, 102, '2');
+insert into room values (5, '디럭스 킹', 4, 301, '1');
+insert into room values (6, '디럭스 트윈', 4, 302, '1');
+insert into room values (7, '스위트', 4, 401, '1');
+insert into room values (8, '디럭스룸', 4, 402, '1');
+insert into room values (9, '디럭스 킹', 2, 101, '1');
+insert into room values (10, '디럭스 트윈', 2, 102, '1');
+insert into room values (11, '스위트', 4, 101, '2');
+insert into room values (12, '디럭스룸', 4, 102, '2');
+insert into room values (13, '디럭스 킹', 4, 301, '1');
+insert into room values (14, '디럭스 트윈', 4, 302, '1');
+insert into room values (15, '스위트', 4, 401, '1');
+insert into room values (16, '디럭스룸', 4, 402, '1');
+insert into room values (17, '디럭스 킹', 2, 101, '1');
+insert into room values (18, '디럭스 트윈', 2, 102, '1');
+insert into room values (19, '스위트', 4, 101, '2');
+insert into room values (20, '디럭스룸', 4, 102, '2');
+insert into room values (21, '디럭스 킹', 4, 301, '1');
+insert into room values (22, '디럭스 트윈', 4, 302, '1');
+insert into room values (23, '스위트', 4, 401, '1');
+insert into room values (24, '디럭스룸', 4, 402, '1');
